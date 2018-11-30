@@ -1,0 +1,11 @@
+minimumBet:1
+wordSize:4
+player1_bet:10 ether
+player2_bet:10 ether
+player1_commitWord:"game"
+player2_commitWord:"over"
+player1_submitChallenge:"g_m_",1,3
+player2_submitChallenge:"o__r",1,2
+player1_play:"over"
+player2_play:"geee"
+

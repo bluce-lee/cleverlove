@@ -1,0 +1,7 @@
+超时取回赌金的测试用例
+
+minimumBet:1
+wordSize:5
+player1bet:10 ether
+player2bet:20 ether
+waitTime:2 min

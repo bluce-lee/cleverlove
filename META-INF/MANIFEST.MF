@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Class-Path: jfreechart-1.5.0.jar commons-codec-1.10.jar commons-collec
+ tions4-4.2.jar fastjson-1.2.49.jar jcommon-1.0.24.jar syntaxpane-1.1.
+ 9.jar poi-4.0.0.jar
+Main-Class: com.cleverlove.App
+

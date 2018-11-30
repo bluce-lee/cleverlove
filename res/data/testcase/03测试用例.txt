@@ -1,0 +1,12 @@
+双赢平局测试用例
+
+minimumBet:1
+wordSize:5
+player1bet:10 ether
+player2bet:10 ether
+player1commitWord:"hello"
+player2commitWord:"world"
+player1submitChallenge:"h_l_o",1,3
+player2submitChallenge:"w_rl_",1,4
+player1play:"world"
+player2play:"hello"
